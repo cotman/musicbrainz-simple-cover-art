@@ -1,0 +1,8 @@
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+build/
+Makefile
+*.kdev4
+musicbrainz-simple-cover-art
+
